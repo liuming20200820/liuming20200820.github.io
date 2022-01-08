@@ -106,8 +106,16 @@ deploy:
   type: git
   repository: https://github.com/liuming20200820/liuming20200820.github.io.git
   branch: main
---------------------------------------------------------------------------------------------------
-hexo g 生成静态网页
-hexo d 开始部署
 ```
-
+#### 对main分支进行部署更新：
+```
+hexo clean （清理缓存，可选用）
+hexo g （生成资源文件）
+hexo d （部署到服务器
+```
+#### 对hexo分支进行部署更新：
+```
+git add -A （添加所有文件到暂存区）
+git commit -m "自定义信息" （提交此次更新的信息）
+git push origin hexo （推送hexo分支到Github）
+```
