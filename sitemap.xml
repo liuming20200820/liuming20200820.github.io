@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/archives/undefined.html</loc>
+    <loc>http://data.zz.baidu.com/archives/undefined.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/categories/index.html</loc>
+    <loc>http://data.zz.baidu.com/categories/index.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/index.html</loc>
+    <loc>http://data.zz.baidu.com/tags/index.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>https://blog.juanertu.com/</loc>
+    <loc>http://data.zz.baidu.com/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,42 +83,42 @@
 
   
   <url>
-    <loc>https://blog.juanertu.com/tags/hexo/</loc>
+    <loc>http://data.zz.baidu.com/tags/hexo/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/butterfly/</loc>
+    <loc>http://data.zz.baidu.com/tags/butterfly/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/gulp%E5%8E%8B%E7%BC%A9%E4%BB%A3%E7%A0%81/</loc>
+    <loc>http://data.zz.baidu.com/tags/gulp%E5%8E%8B%E7%BC%A9%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/Markdown/</loc>
+    <loc>http://data.zz.baidu.com/tags/Markdown/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/blog%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://data.zz.baidu.com/tags/blog%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.juanertu.com/tags/github%E5%9B%BE%E5%BA%8A/</loc>
+    <loc>http://data.zz.baidu.com/tags/github%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
