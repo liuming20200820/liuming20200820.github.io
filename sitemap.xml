@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://data.zz.baidu.com/archives/26d09be9.html</loc>
+    
+    <lastmod>2022-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://data.zz.baidu.com/archives/5452916e.html</loc>
     
     <lastmod>2022-01-10</lastmod>
@@ -20,18 +29,9 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/7f7acb96.html</loc>
+    <loc>http://data.zz.baidu.com/archives/7527d40f.html</loc>
     
-    <lastmod>2022-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/26d09be9.html</loc>
-    
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,14 +40,14 @@
   <url>
     <loc>http://data.zz.baidu.com/archives/247115af.html</loc>
     
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/7527d40f.html</loc>
+    <loc>http://data.zz.baidu.com/archives/7f7acb96.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
