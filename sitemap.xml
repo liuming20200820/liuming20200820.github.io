@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/f3a153ba.html</loc>
+    <loc>https://liuming20200820.github.io/resume/index.html</loc>
+    
+    <lastmod>2022-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/9d910e7a.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/cca10021.html</loc>
+    <loc>https://liuming20200820.github.io/archives/26d09be9.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/8efd962c.html</loc>
+    <loc>https://liuming20200820.github.io/archives/5452916e.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/bad05100.html</loc>
+    <loc>https://liuming20200820.github.io/archives/7f7acb96.html</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -38,7 +47,70 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/categories/index.html</loc>
+    <loc>https://liuming20200820.github.io/archives/7527d40f.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/247115af.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/6fa84f43.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/cca10021.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/f3a153ba.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/8efd962c.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/archives/bad05100.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/categories/index.html</loc>
     
     <lastmod>2022-01-12</lastmod>
     
@@ -47,16 +119,7 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/6fa84f43.html</loc>
-    
-    <lastmod>2022-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/5452916e.html</loc>
+    <loc>https://liuming20200820.github.io/archives/6f7eae34.html</loc>
     
     <lastmod>2022-01-10</lastmod>
     
@@ -65,52 +128,7 @@
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/archives/7f7acb96.html</loc>
-    
-    <lastmod>2022-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/6f7eae34.html</loc>
-    
-    <lastmod>2022-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/26d09be9.html</loc>
-    
-    <lastmod>2022-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/7527d40f.html</loc>
-    
-    <lastmod>2022-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/archives/247115af.html</loc>
-    
-    <lastmod>2022-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://data.zz.baidu.com/tags/index.html</loc>
+    <loc>https://liuming20200820.github.io/tags/index.html</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -120,83 +138,104 @@
   
 
   <url>
-    <loc>http://data.zz.baidu.com/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/hexo/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/hexo/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/butterfly/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/butterfly/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/Markdown/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/gulp%E5%8E%8B%E7%BC%A9%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/gulp%E5%8E%8B%E7%BC%A9%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/git/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/nodejs/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/Markdown/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/gulp/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/nodejs/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/mongodb/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/gulp/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/github%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/express/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/blog%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/mongodb/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://data.zz.baidu.com/tags/git/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <loc>https://liuming20200820.github.io/tags/blog%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2022-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/tags/github%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://liuming20200820.github.io/categories/hexo%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5/</loc>
+    <lastmod>2022-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/categories/nodejs%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
