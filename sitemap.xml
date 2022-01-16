@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liuming20200820.github.io/archives/d5570681.html</loc>
+    
+    <lastmod>2022-01-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://liuming20200820.github.io/archives/6a87f5be.html</loc>
     
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://liuming20200820.github.io/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,84 +174,84 @@
   
   <url>
     <loc>https://liuming20200820.github.io/tags/hexo/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/butterfly/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/gulp%E5%8E%8B%E7%BC%A9%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/git/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/Markdown/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/nodejs/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/gulp/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/express/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/mongodb/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/blog%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/github%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/tags/express/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -251,21 +260,21 @@
   
   <url>
     <loc>https://liuming20200820.github.io/categories/hexo%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/categories/nodejs%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://liuming20200820.github.io/categories/express/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
