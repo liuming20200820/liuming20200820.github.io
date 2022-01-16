@@ -194,7 +194,7 @@
   </url>
   
   <url>
-    <loc>https://liuming20200820.github.io/tags/git/</loc>
+    <loc>https://liuming20200820.github.io/tags/express/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,7 +208,21 @@
   </url>
   
   <url>
+    <loc>https://liuming20200820.github.io/tags/git/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://liuming20200820.github.io/tags/nodejs/</loc>
+    <lastmod>2022-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://liuming20200820.github.io/tags/express/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -222,21 +236,7 @@
   </url>
   
   <url>
-    <loc>https://liuming20200820.github.io/tags/express/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://liuming20200820.github.io/tags/mongodb/</loc>
-    <lastmod>2022-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://liuming20200820.github.io/tags/blog%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -250,7 +250,7 @@
   </url>
   
   <url>
-    <loc>https://liuming20200820.github.io/tags/express/</loc>
+    <loc>https://liuming20200820.github.io/tags/blog%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,14 +266,14 @@
   </url>
   
   <url>
-    <loc>https://liuming20200820.github.io/categories/nodejs%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://liuming20200820.github.io/categories/express/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://liuming20200820.github.io/categories/express/</loc>
+    <loc>https://liuming20200820.github.io/categories/nodejs%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
